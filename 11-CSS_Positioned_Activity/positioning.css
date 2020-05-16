@@ -1,0 +1,27 @@
+  #fixed {
+    position: fixed;
+    width: 160px;
+    height: 100px;
+    background: lightgray;
+    z-index: 1;
+  }
+
+  #relative {
+    position: relative;
+    height: 150px;
+    background:lightgray;
+  }
+
+  #absolute {
+    position: absolute;
+    background: darkgray;
+    height: 100px;
+    left: 70%;
+    top: 35%;
+  }
+
+  .textalign {
+    position: relative;
+    left: 120px;
+    width: 70%;
+  }
