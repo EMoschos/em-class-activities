@@ -2,6 +2,8 @@
     position: fixed;
     width: 160px;
     height: 100px;
+    top: 0;
+    left: 0;
     background: lightgray;
     z-index: 1;
   }
@@ -16,12 +18,11 @@
     position: absolute;
     background: darkgray;
     height: 100px;
-    left: 70%;
-    top: 35%;
+    left: 60%;
+    top: 50px;
   }
 
   .textalign {
-    position: relative;
-    left: 120px;
-    width: 70%;
+    margin-left: 120px;
+    width: 20%;
   }
