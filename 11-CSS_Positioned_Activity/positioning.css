@@ -23,6 +23,10 @@
   }
 
   .textalign {
-    margin-left: 120px;
-    width: 20%;
+    margin: 0 auto;
+    width: 300px;
+  }
+
+  p {
+    font-size: 20px;
   }
